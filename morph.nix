@@ -7,8 +7,8 @@ let
   };
 
   srkNurPinned = builtins.fetchTarball {
-    url = "https://github.com/sorki/nur-expressions/archive/ac5ec230bcad21b7ddb62f959f8cdfeee2654cb8.tar.gz";
-    sha256 = "199ihd6iah8py0vgn27w553whgqzjkkzm35rrys1lncgsa6ya43n";
+    url = "https://github.com/sorki/nur-expressions/archive/07bea27864ae90a091af7aca282ce955c01c5d60.tar.gz";
+    sha256 = "1py84mh3sxfpby3w6qp2zprrzi1nkvnsir1kl53yv1yffs3hw9nh";
   };
 
   srkNurLocal = ~/git/nur/srk-nur-expressions;
